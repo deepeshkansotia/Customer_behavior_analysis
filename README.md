@@ -102,5 +102,3 @@ Filters allow exploration by:
 - **Power BI**
 
 ---
-
-## Project Structure
